@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="VerPreguntas.xsl"?>
+<assessmentItems>
+	<assessmentItem complexity="2" subject="Web" author="jvadillo001@ikasle.ehu.es">
+		<itemBody>
+			<p>Tag HTML para a&#xF1;adir un formulario</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				FORM
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value> OBJECT </value>
+			<value> TABLE </value>
+			<value> DIV </value>
+		</incorrectResponses>
+	</assessmentItem>
+		<assessmentItem complexity="4" subject="Internet" author="rarruabarrena001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Este protocolo acabar&#xE1; funcionando
+			incluso entre dos latas unidas por un cord&#xF3;n</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				TCP/IP
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value> HTTP </value>
+			<value> SMTP </value>
+			<value> Ninguna es correcta </value>
+		</incorrectResponses>
+	</assessmentItem>
+<assessmentItem complexity="1" subject="F&#xFA;tbol" author="ivaldes002@ikasle.ehu.es"><itemBody><p>&#xBF;Que equipo no es de LaLiga?</p></itemBody><correctResponse><value>PSG</value></correctResponse><incorrectResponses><value>Real Madrid</value><value>Barcelona</value><value>Atl&#xE9;tico de Madrid</value></incorrectResponses></assessmentItem><assessmentItem complexity="1" subject="Musica" author="scavia002@ikasle.ehu.eus"><itemBody><p>&#xBF;Qu&#xE9; banda es la mas honrada del mundo?</p></itemBody><correctResponse><value>Eskorbuto</value></correctResponse><incorrectResponses><value>La Oreja De Van Gogh</value><value>Amaral</value><value>Taburete</value></incorrectResponses></assessmentItem><assessmentItem complexity="1" subject="aaaaa" author="prueba017@ikasle.ehu.eus"><itemBody><p>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</p></itemBody><correctResponse><value>a1</value></correctResponse><incorrectResponses><value>a2</value><value>a3</value><value>a4</value></incorrectResponses></assessmentItem><assessmentItem complexity="2" subject="bbbbbbbbbbbbb" author="prueba001@ikasle.ehu.eus"><itemBody><p>BBBBBBBBBBB</p></itemBody><correctResponse><value>b1</value></correctResponse><incorrectResponses><value>b2</value><value>b3</value><value>b4</value></incorrectResponses></assessmentItem><assessmentItem complexity="2" subject="bbbbbbbbbbbbb" author="prueba001@ikasle.ehu.eus"><itemBody><p>BBBBBBBBBBB</p></itemBody><correctResponse><value>b1</value></correctResponse><incorrectResponses><value>b2</value><value>b3</value><value>b4</value></incorrectResponses></assessmentItem><assessmentItem complexity="2" subject="bbbbbbbbbbbbb" author="prueba001@ikasle.ehu.eus"><itemBody><p>BBBBBBBBBBB</p></itemBody><correctResponse><value>b1</value></correctResponse><incorrectResponses><value>b2</value><value>b3</value><value>b4</value></incorrectResponses></assessmentItem><assessmentItem complexity="1" subject="a" author="prueba001@ikasle.ehu.eus"><itemBody><p>ES CFB UN CHICO MAJO</p></itemBody><correctResponse><value>meh</value></correctResponse><incorrectResponses><value>*soplido*</value><value>a</value><value>a</value></incorrectResponses></assessmentItem><assessmentItem complexity="2" subject="Musica" author="prueba017@ikasle.ehu.eus"><itemBody><p>Prueba de pregunta de musica para el royo este </p></itemBody><correctResponse><value>a1</value></correctResponse><incorrectResponses><value>a2</value><value>a3</value><value>a4</value></incorrectResponses></assessmentItem><assessmentItem complexity="2" subject="Musica" author="ivaldes002@ikasle.ehu.eus"><itemBody><p>&#xBF;Cu&#xE1;l de estas no es una nota musical?</p></itemBody><correctResponse><value>PUM</value></correctResponse><incorrectResponses><value>FA</value><value>SOL</value><value>LA</value></incorrectResponses></assessmentItem><assessmentItem complexity="1" subject="Web" author="ivaldes002@ikasle.ehu.eus"><itemBody><p>&#xBF;Es la web un protocolo?</p></itemBody><correctResponse><value>No </value></correctResponse><incorrectResponses><value>Lo fue durante unos a&#xF1;os</value><value>Seguro que si</value><value>Solo mediante TCP/IP</value></incorrectResponses></assessmentItem><assessmentItem complexity="1" subject="aaaaaaaaaa" author="ivaldes002@ikasle.ehu.eus"><itemBody><p>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</p></itemBody><correctResponse><value>a</value></correctResponse><incorrectResponses><value>a</value><value>a</value><value>a</value></incorrectResponses></assessmentItem><assessmentItem complexity="1" subject="aaaaaaaaaa" author="ivaldes002@ikasle.ehu.eus"><itemBody><p>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</p></itemBody><correctResponse><value>a</value></correctResponse><incorrectResponses><value>a</value><value>a</value><value>a</value></incorrectResponses></assessmentItem><assessmentItem complexity="2" subject="F&#xFA;tbol" author="ivaldes002@ikasle.ehu.eus"><itemBody><p>&#xBF;Qu&#xE9; equipo ya no juega la Champions?</p></itemBody><correctResponse><value>Atl&#xE9;tico de Madrid</value></correctResponse><incorrectResponses><value>Real Madrid</value><value>Sevilla</value><value>Barcelona</value></incorrectResponses></assessmentItem></assessmentItems>
